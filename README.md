@@ -16,7 +16,11 @@ A mix of Playnite, AutoHotKey and Rainmeter (Rainmeter not required but adds the
 
 In your Start Menu (after installing AutoHotKey v1.1) open the newly added "Convert .ahk to .exe"
 
+![Screenshot 2025-03-31 100940](https://github.com/user-attachments/assets/8f6c296f-5c7b-4c14-9565-2e6f8e6a200d)
+
 Hit Browse and locate the .ahk you made
+
+![Screenshot 2025-03-31 101021](https://github.com/user-attachments/assets/35ddf07e-c358-481e-a286-94dfa4953944)
 
 Hit Convert, it will say it's done, AlwaysOnBottom.exe will be in same folder as the .ahk you made
 </details>
