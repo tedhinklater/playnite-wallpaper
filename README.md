@@ -3,7 +3,8 @@
 A mix of Playnite, AutoHotKey and Rainmeter (Rainmeter not required but adds the App Launcher and Weather functionality).
 
 # What does it do?
-Effectively sets Playnite as the wallpaper below all other apps, including the Taskbar and any Rainmeter skins. Any theme will work, but this theme is clean/not broken and has space around the edges for the Taskbar and stuff.
+Effectively sets Playnite as the wallpaper below all other apps including the Taskbar and any Rainmeter skins. 
+Any theme will work, but this theme is clean/not broken and has space around the edges for the Taskbar and stuff.
 
 ![Screenshot 2025-03-31 093409](https://github.com/user-attachments/assets/abe68528-0944-4526-b99c-fb238e966482)
 
