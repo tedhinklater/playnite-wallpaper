@@ -11,7 +11,7 @@ Any theme will work, but this theme is clean/not broken and has space around the
 # Setup
 
 1. Install [Playnite](https://playnite.link/)
-2. Download & install this [Fullscreen theme](https://github.com/tedhinklater/J-Hero/releases/tag/v1) and launch Fullscreen Mode with F11
+2. Download & install this [Fullscreen theme](https://github.com/tedhinklater/J-Hero/releases/tag/v1.1) and launch Fullscreen Mode with F11
 3. Install [AutoHotKey v1.1](https://www.autohotkey.com/) (not v2).
 4. Download [AlwaysOnBottom.exe](https://github.com/tedhinklater/playnite-wallpaper/blob/main/AlwaysOnBottom.exe) or create your own AlwaysOnBottom.exe with AutoHotKey
 <details><summary>Create an AutoHotKey script exe</summary>
