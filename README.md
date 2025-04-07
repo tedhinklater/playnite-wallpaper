@@ -8,6 +8,10 @@ Any theme will work, but this theme is clean/not broken and has space around the
 
 ![Screenshot 2025-04-07 112745](https://github.com/user-attachments/assets/f91462d6-d5e2-43d6-a644-8a4cc8f65f86)
 
+![Screenshot 2025-04-07 143429](https://github.com/user-attachments/assets/1165a52f-0dcb-456d-823e-606940981d8e)
+
+![unknown_2025 04 07-14 37_1-ezgif com-optimize](https://github.com/user-attachments/assets/a200abb1-0d36-4002-a81b-b55de172a6cd)
+
 # Setup
 
 1. Install [Playnite](https://playnite.link/)
